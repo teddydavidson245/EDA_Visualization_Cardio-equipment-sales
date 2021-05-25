@@ -1,4 +1,4 @@
-# Cardio-equipment-sales
+# Cardio-sales
 Objective - Preliminary Data Analysis. Explore the dataset and practice extracting basic observations about the data. The idea is for you to get comfortable working in Python.
 
 You are expected to do the following :
